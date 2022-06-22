@@ -1,7 +1,7 @@
 # Filtr
 ![filtr](/static/favicon.ico)
 
-**Environment:** Python, Flask, SQL, JavaScript, Jinja2, HTML5, CSS
+**Environment:** Python, Flask, SQL, JavaScript, Jinja2, HTML5, CSS, Bootstrap
 
 ## About
 <!---For my CS50 Final Project, I created an image filter webapp.-->
